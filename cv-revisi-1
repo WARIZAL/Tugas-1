@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en-id">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cv html</title>
+</head>
+<style>
+    table, th, td {
+      border:0px solid black;
+    }
+    </style>
+<body>
+    <nav style="text-align: right; background-color: aqua;">
+        <a href="../index.html">Home</a> |
+        <a href="../cv/cv.html">CV</a> |
+        <a href="../form2/contact.html">Contact</a> |
+        <a href="../form1/about.html">About me</a>
+    </nav>
+    <header style="background-color:aqua" >
+        <table style="width:100% ;">
+         <tr>
+          <td style="text-align: center;"><img src="poto.jpg" alt="rizal" width="150px" style="border-radius:50%" >
+          </td>
+          <td style="height: 50%;">
+            <h1>  WARIZAL ILWI </h1>
+            </tr>
+        </table>
+        </header>
+    <table style="width:100%">
+        <tr>
+            <td>
+                <h3  ><ins style="background-color:aqua;"> CONTAC </ins></h3>
+                <ul>
+                    <li>wa      :087780272001</li>
+                    <li>email   :warizalilwi05@gmail.com </li>
+                    <li>ig      :warizal ilwi</li>
+                </ul> <br>
+                <h3 ><ins style="background-color: aqua;">SKILL</ins></h3>
+                <ol>
+                    <li>penerimaan barang</li>
+                    <li>listing barang</li>
+                    <li>word & exel & powerpoint</li>
+                    <li>lern html & css & js</li>
+                </ol>
+                <br><br><br><br>
+             </td>
+            <td>
+                <h3 ><ins style="background-color: aqua;">PROFILE</ins></h3>
+            <ol>
+                <p>nama     :warizal ilwi <br>
+                    alamat  : ds.saba kc.janapria kb.lombok tengah
+                    umur    :20 <br>
+                    ttgl    :lingkuk buak timuk 22-04-2001 <br>
+                    dll
+                </p></li>   
+            </ol>
+            <h3 ><ins style="background-color: aqua;">PENGALAMAN KERJA</ins></h3>
+           <UL>
+            <P>PKL(Praktek kerja lapangan) KUD </P>
+            <P>PRAMUNIAGA</P>
+           </UL>
+            <h3 ><ins style="background-color: aqua;">PENDIDIKAN</ins></h3>
+            <OL>
+                <P>SD <br>
+                    SMP <br>
+                    SMK <br>
+                    KULIAH <br>
+                </P>
+            </OL>
+            </td>
+        </tr>
+    </table>
+   
+</body>
+</html>
